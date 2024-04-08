@@ -23,7 +23,6 @@ ul
 
 
 
-
 #  이은석
 ## 나이 : 31 살
 ### 주거지 : 서울시 강서구
@@ -35,7 +34,7 @@ ul
 > > > 사용 스킬 : html, css, jq, js, 어도비
 
 <details>
-<summary>여기를 눌러주세요</summary>
+<summary class="summary" >여기를 눌러주세요</summary>
 <div markdown="1">
 <img src="https://pbs.twimg.com/media/EA9UJBjU4AAdkCm.jpg"  width=300px >
 
